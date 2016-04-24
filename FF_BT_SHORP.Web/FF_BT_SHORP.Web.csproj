@@ -272,6 +272,7 @@
     <Content Include="Content\Web\plugins\gmaps\test\spec\RouteSpec.js" />
     <Content Include="Content\Web\plugins\gmaps\test\spec\StreetViewSpec.js" />
     <Content Include="Content\Web\plugins\gmaps\test\spec\StyleSpec.js" />
+    <Content Include="Content\Web\plugins\jquery-1.10.2.js" />
     <Content Include="Content\Web\plugins\jquery-1.10.2.min.js" />
     <Content Include="Content\Web\plugins\jquery-migrate-1.2.1.min.js" />
     <Content Include="Content\Web\plugins\jQuery-slimScroll\examples\allow-page-scroll.html" />
@@ -498,16 +499,11 @@
     <Content Include="Content\Web\plugins\jquery-1.10.2.min.map" />
     <Content Include="Content\Web\plugins\jQuery-slimScroll\README.md" />
     <Content Include="Content\Web\plugins\jQuery-slimScroll\slimScroll.jquery.json" />
-    <Content Include="Content\Web\plugins\layerslider\css\.DS_Store" />
-    <Content Include="Content\Web\plugins\layerslider\jQuery\.DS_Store" />
-    <Content Include="Content\Web\plugins\layerslider\js\.DS_Store" />
-    <Content Include="Content\Web\plugins\layerslider\skins\.DS_Store" />
     <Content Include="Content\Web\plugins\rateit\.DS_Store" />
     <Content Include="Content\Web\plugins\rateit\src\jquery.rateit.min.js.map" />
     <Content Include="Content\Web\plugins\uniform\.DS_Store" />
     <Content Include="Content\Web\plugins\uniform\css\uniform.default.scss" />
     <Content Include="Content\Web\plugins\uniform\README.textile" />
-    <Content Include="Content\Web\temp\sliders\.DS_Store" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>

@@ -1,5 +1,4 @@
 var Index = function () {
-
     return {
         initLayerSlider: function () {
             $('#layerslider').layerSlider({
